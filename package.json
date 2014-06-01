@@ -1,0 +1,8 @@
+{
+	"name": "ia",
+	"version": "0.0.1",
+	"description": "A Node.js library for interacting with the Internet Archive metadata and S3 APIs.",
+	"dependencies": {
+		
+	}
+}
